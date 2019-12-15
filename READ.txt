@@ -1,0 +1,3 @@
+10 Rounds Rummy
+We try to make Sequences and Runs for 10 rounds and the computer also tries to do the same.
+In the end Points are calculated like in Points Rummy and we are given the result as to who wins
